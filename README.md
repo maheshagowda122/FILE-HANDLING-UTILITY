@@ -39,3 +39,7 @@ File I/O Classes: FileReader, FileWriter, BufferedReader, BufferedWriter
 Development Platform: Windows(Eclipse-compatible OS)
 
 JVM: Java Virtual Machine for execution and runtime support
+
+*OUTPUT*:
+
+![Image](https://github.com/user-attachments/assets/864de8af-57ed-4025-bc07-fd081f0c33db)
